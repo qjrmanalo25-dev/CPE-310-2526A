@@ -3,7 +3,7 @@
 <!-- 🎓 BSIE COLLEGE STUDENT GITHUB README -->
 <!-- ======================================= -->
 
-<h1 align="center">Hi 👋, I'm John Rafael S. Manalo, My nickname is Raf </h1>
+<h1 align="center">Hi, I'm John Rafael S. Manalo, My nickname is Raf </h1>
 <h3 align="center">🎓 BS Industrial Engineering Student 
 
 <p align="center">
@@ -24,5 +24,5 @@
 > *“Slow Motion is Better than no Motion - Kai Cenat.”*
 
 <p align="center">
-   Thanks for visiting, Sana maka pasa sa sub HAHAHAH
+   Thanks for visiting, Sana maka pasa po sa sub HAHAHAH
 </p>
